@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import background from "./figmasunthree.png"
-import WebFont from 'webfontloader';
+// import WebFont from 'webfontloader';
 import "./App.css";
-import { useEffect } from "react";
+// import { useEffect } from "react";
   
 function App() {
 
@@ -16,13 +16,13 @@ function App() {
         backgroundRepeat: ' no repeat',
     };
 
-    useEffect(() => {
-      WebFont.load({
-        google: {
-          families: ['Droid Sans', 'Chilanka', 'Verela Round' ,'Dosis' ]
-        }
-      });
-    }, []);
+//     useEffect(() => {
+//       WebFont.load({
+//         google: {
+//           families: ['Droid Sans', 'Chilanka', 'Verela Round' ,'Dosis' ]
+//         }
+//       });
+//     }, []);
 
     return (
       <div style={myStyle} >
