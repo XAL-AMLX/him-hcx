@@ -5,7 +5,7 @@
   line-height: 2.5rem;
   --tw-text-opacity: 1;
   color: silver;
-  font-family: 'Dosis';
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   text-align: start;
   margin-left: 6.5rem;
   margin-top: 6.5rem;
@@ -17,7 +17,7 @@
 }
 
 .hcx-description{
-  font-family:'Dosis';
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-size: 6rem;
   margin-top: 8rem;
   color: tan;
